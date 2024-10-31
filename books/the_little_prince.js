@@ -1,10 +1,9 @@
-//const BACKEND = `http://192.168.0.9:3009/`
 import dotenv from 'dotenv';
 // Determine environment (default to development)
 const env = process.env.NODE_ENV || 'development';
 // Load the correct .env file based on environment
 dotenv.config({ path: `.env.${env}` });
-const BACKEND =process.env.HOST
+const BACKEND = process.env.HOST
 const style = `style="max-width:60vw;display:block;margin:auto;"`
 
 function fig (image, legend) {

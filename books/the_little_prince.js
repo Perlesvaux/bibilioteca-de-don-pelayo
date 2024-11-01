@@ -446,7 +446,7 @@ The businessman opened his mouth, but he found nothing to say in answer. And the
       ]
     }, {
       ch:`14`,
-      title: `The little prince visits the lamplighter`,
+      title: `14 The little prince visits the lamplighter`,
       content: `The fifth planet was very strange. It was the smallest of all. There was just enough room on it for a street lamp and a lamplighter. The little prince was
 not able to reach any explanation of the use of a street lamp and a lamplighter, somewhere in the heavens, on a planet which had no people, and not one house. But he said to himself, nevertheless:
 "It may well be that this man is absurd. But he is not so absurd as the king, the conceited man, the businessman, and the tippler. For at least his work has some meaning. When he lights his street lamp, it is as if he brought one more star to life, or one flower. When he puts out his lamp, he sends the flower, or the star, to sleep. That is a beautiful occupation. And since it is beautiful, it is truly useful." [1]
@@ -485,7 +485,7 @@ What the little prince did not dare confess was that he was sorry most of all to
       ]
     }, {
       ch: `15`,
-      title: `The little prince visits the geographer`,
+      title: `15 The little prince visits the geographer`,
       content: `The sixth planet was ten times larger than the last one. It was inhabited by an old gentleman who wrote voluminous books.
 "Oh, look! Here is an explorer!" he exclaimed to himself when he saw the little prince coming.
 The little prince sat down on the table and panted a little. He had already traveled so much and so far!
@@ -616,7 +616,7 @@ And he lay down in the grass and cried. [2]`,
 
     }, {
       ch:`21`,
-      title: `20 The little prince befriends the fox`,
+      title: `21 The little prince befriends the fox`,
       content: `It was then that the fox appeared. "Good morning," said the fox.
 "Good morning," the little prince responded politely, although when he turned around he saw nothing.
 "I am right here," the voice said, "under the apple tree."
@@ -696,7 +696,7 @@ And they heard the roaring thunder of a third brilliantly lighted express. "Are 
       footnotes: []
     }, {
       ch:`23`,
-      title: `The little prince encounters a merchant`,
+      title: `23 The little prince encounters a merchant`,
       content: `"Good morning," said the little prince. "Good morning," said the merchant.
 This was a merchant who sold pills that had been invented to quench thirst. You need only swallow one pill a week, and you would feel no need of anything to drink.
 "Why are you selling those?" asked the little prince.
@@ -740,7 +740,7 @@ And, as I walked on so, I found the well, at daybreak.`,
       footnotes: []
     }, {
       ch:`25`,
-      title: `Finding a well, the narrator and the little prince discuss his return to his planet`,
+      title: `25 Finding a well, the narrator and the little prince discuss his return to his planet`,
       content: `"Men," said the little prince, "set out on their way in express trains, but they do not know what they are looking for. Then they rush about, and get excited, and turn round and round..."
 And he added:
 "It is not worth the trouble..."

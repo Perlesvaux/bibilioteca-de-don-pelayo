@@ -1,6 +1,6 @@
 import {renderFootnotes, renderContents, renderHTML} from './lib.js'
-import { to_kill_a_nation } from './books/to-kill-a-nation.js'
-import { the_little_prince } from './books/the_little_prince.js'
+//import { to_kill_a_nation } from './books/to-kill-a-nation.js'
+//import { the_little_prince } from './books/the_little_prince.js'
 import express from 'express'
 
 const app = express()
@@ -12,6 +12,15 @@ const port = 3009
 //const env = process.env.NODE_ENV || 'development';
 //// Load the correct .env file based on environment
 //dotenv.config({ path: `.env.${env}` });
+
+
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Resolve __dirname for ES6 modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 
 
@@ -96,8 +105,9 @@ app.get('/', (req, res) => {
 })
 
 
-app.get('/to-kill-a-nation', logger, (req, res)=>{
+app.get('/to-kill-a-nation', logger, async (req, res)=>{
 
+  const { to_kill_a_nation } = await import('./books/to-kill-a-nation.js')
   
   console.log(isTextBrowser(req))
 
@@ -112,7 +122,9 @@ app.get('/to-kill-a-nation', logger, (req, res)=>{
 })
 
 
-app.get('/the-little-prince', logger, (req, res)=>{
+app.get('/the-little-prince', logger, async (req, res)=>{
+
+  const { the_little_prince } = await import ( './books/the_little_prince.js' )
 
   
   console.log(isTextBrowser(req))
@@ -126,6 +138,30 @@ app.get('/the-little-prince', logger, (req, res)=>{
 
 
 })
+
+
+
+
+app.get('/books', (req, res) => {
+  const booksDir = path.join(__dirname, 'books');
+
+  fs.readdir(booksDir, (err, files) => {
+    if (err) {
+      console.error('Error reading directory:', err);
+      return res.status(500).json({ error: 'Unable to read directory' });
+    }
+    let result = []
+    files.forEach((x)=> { result.push({
+        title: x.replace(/[\-\_]/gm,' ').replace('.js', '').toUpperCase(),
+        url: x.replace(/[\_]/gm, '-').replace('.js', '')
+      }) 
+    })
+
+    console.log(result)
+    res.json({ result });
+  });
+});
+
 
 
 

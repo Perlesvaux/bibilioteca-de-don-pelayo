@@ -26,7 +26,7 @@ export const the_little_prince = {
     },
     {
       ch: `1`,
-      title: `1 We are introduced to the narrator, a pilot, and his ideas about grown-ups`,
+      title: `We are introduced to the narrator, a pilot, and his ideas about grown-ups`,
       content:`Once when I was six years old I saw a magnificent picture in a book, called <em>True Stories</em> from Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing: [1]
 In the book it said: "Boa constrictors swallow their prey whole, without chewing it. After that they are not able to move, and they sleep through the six months that they need for digestion."
 I pondered deeply, then, over the adventures of the jungle. And after some work with a colored pencil I succeeded in making my first drawing. My Drawing Number One. It looked like this: [2]
@@ -49,7 +49,7 @@ Then I would never talk to that person about boa constrictors, or primeval fores
 
     {
       ch: `2`,
-      title: `2 The narrator crashes in the desert and makes the acquaintance of the little prince`,
+      title: `The narrator crashes in the desert and makes the acquaintance of the little prince`,
       content: `So I lived my life alone, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago. Something
 was broken in my engine. And as I had with me neither a mechanic nor any passengers, I set myself to attempt the difficult repairs all alone. It was a question of life or death for me: I had scarcely enough drinking water to last a week.
 The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean. Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. It said:
@@ -96,7 +96,7 @@ And that is how I made the acquaintance of the little prince.`,
       ]
     },{
       ch: `3`,
-      title: `3 The narrator learns more about from where the little prince came`,
+      title: `The narrator learns more about from where the little prince came`,
       content: `It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me.
 The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:
 "What is that object?"
@@ -126,7 +126,7 @@ But the little prince seemed shocked by this offer:
       footnotes: []
     },{
       ch:`4`,
-      title:`4 The narrator speculates as to which asteroid from which the little prince came`,
+      title:`The narrator speculates as to which asteroid from which the little prince came`,
       content: `I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house! [1]
 But that did not really surprise me much. I knew very well that in addition to the great planets-- such as the Earth, Jupiter, Mars, Venus-- to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope. When an astronomer discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325." [2]
 I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612.
@@ -154,7 +154,7 @@ In certain more important details I shall make mistakes, also. But that is somet
       ]
     },{
       ch:`5`,
-      title:`5 We are warned as to the dangers of the baobabs`,
+      title:`We are warned as to the dangers of the baobabs`,
       content:`
 As each day passed I would learn, in our talk, something about the little prince's planet, his departure from it, his journey. The information would come very slowly, as it might chance to fall from his thoughts. It was in this way that I heard, on the third day, about the catastrophe of the baobabs.
 This time, once more, I had the sheep to thank for it. For the little prince asked me abruptly-- as if seized by a grave doubt-- "It is true, isn't it, that sheep eat little bushes?"
@@ -182,7 +182,7 @@ The reply is simple. I have tried. But with the others I have not been successfu
       ]
     }, {
       ch:`6`,
-      title:`6 The little prince and the narrator talk about sunsets`,
+      title:`The little prince and the narrator talk about sunsets`,
       content:`
 Oh, little prince! Bit by bit I came to understand the secrets of your sad little life... For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset. I learned that new detail on the morning of the fourth day, w hen you said to me:
 "I am very fond of sunsets. Come, let us go look at a sunset now." "But we must wait," I said.
@@ -199,7 +199,7 @@ And a little later you added:
       footnotes:[{id:1, note: fig('lp16.png', 'When I\'m having a bad day I like to watch sunsets...')}]
     }, {
       ch:`7`,
-      title:`7 The narrator learns about the secret of the little prince's life`,
+      title:`The narrator learns about the secret of the little prince's life`,
       content:`On the fifth day-- again, as always, it was thanks to the sheep-- the secret of the little prince's life was revealed to me. Abruptly, without anything to lead up to it, and as if the question had been born of long and silent meditation on his problem, he demanded:
 "A sheep-- if it eats little bushes, does it eat flowers, too?" "A sheep," I answered, "eats anything it finds in its reach." "Even flowers that have thorns?"
 "Yes, even flowers that have thorns." "Then the thorns-- what use are they?"
@@ -235,7 +235,7 @@ It is such a secret place, the land of tears.`,
 
     }, {
       ch:`8`,
-      title:`8 The rose arrives at the little prince's planet`,
+      title:`The rose arrives at the little prince's planet`,
       content: `I soon learned to know this flower better. On the little prince's planet the flowers had always been very simple. They had only one ring of petals; they took up no room at all; they were a trouble to nobody. One morning they would appear in the grass, and by night they would have faded peacefully away. But one day, from a seed blown from no one knew where, a new flower had come up; and the little prince had watched very closely over this small sprout which was not like any other small sprouts on his planet. It might, you see, have been a new kind of baobab.
 The shrub soon stopped growing, and began to get ready to produce a flower. The little prince, who was present at the first appearance of a huge bud, felt at once that some sort of miraculous apparition must emerge from it. But the flower was not satisfied to complete the preparations for her beauty in the shelter of her green chamber. She chose her colours with the greatest care.
 She adjusted her petals one by one. She did not wish to go out into the world all rumpled, like the field poppies. It was only in the full radiance of her beauty that she wished to appear. Oh, yes! She was a coquettish creature! And her mysterious adornment lasted for days and days. [1]
@@ -271,7 +271,7 @@ And he continued his confidences:
       ]
     },{
       ch:`9`,
-      title: `9 The little prince leaves his planet`,
+      title: `The little prince leaves his planet`,
       content: `I believe that for his escape he took advantage of the migration of a flock of wild birds. On the morning of his departure he put his planet in perfect order. He carefully cleaned out his active volcanoes. He possessed two active volcanoes; and they were very convenient for heating his breakfast in the morning. He also had one volcano that was extinct. But, as he said, "One never knows!" So he cleaned out the extinct volcano, too. If they are well cleaned out, volcanoes burn slowly and steadily, without any eruptions.
 Volcanic eruptions are like fires in a chimney.
 On our earth we are obviously much too small to clean out our volcanoes. That is why they bring no end of trouble upon us. [1]
@@ -293,7 +293,7 @@ For she did not want him to see her crying. She was such a proud flower...`,
       ]
     }, {
       ch:`10`,
-      title: `10 The little prince visits the king`,
+      title: `The little prince visits the king`,
       content: `He found himself in the neighborhood of the asteroids 325, 326, 327, 328, 329, and 330. He began, therefore, by visiting them, in order to add to his knowledge.
 The first of them was inhabited by a king. Clad in royal purple and ermine, he was seated upon a throne which was at the same time both simple and majestic.
 "Ah! Here is a subject," exclaimed the king, when he saw the little prince coming.
@@ -354,7 +354,7 @@ As the king made no answer, the little prince hesitated a moment. Then, with a s
       ]
     }, {
       ch:`11`,
-      title:`11 The little prince visits the conceited man`,
+      title:`The little prince visits the conceited man`,
       content: `The second planet was inhabited by a conceited man.
 "Ah! Ah! I am about to receive a visit from an admirer!" he exclaimed from afar, when he first saw the little prince coming.
 For, to conceited men, all other men are admirers. [1]
@@ -381,7 +381,7 @@ And the little prince went away.
 
     }, {
       ch:`12`,
-      title: `12 The little prince visits the tippler`,
+      title: `The little prince visits the tippler`,
       content: `The next planet was inhabited by a tippler. This was a very short visit, but it plunged the little prince into deep dejection.
 "What are you doing there?" he said to the tippler, whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles.
 "I am drinking," replied the tippler, with a lugubrious air. "Why are you drinking?" demanded the little prince. "So that I may forget," replied the tippler. [1]
@@ -395,7 +395,7 @@ And the little prince went away, puzzled.
       ]
     }, {
       ch: `13`,
-      title: `13 The little prince visits the businessman`,
+      title: `The little prince visits the businessman`,
       content: `The fourth planet belonged to a businessman. This man was so much occupied that he did not even raise his head at the little prince's arrival.
 "Good morning," the little prince said to him. "Your cigarette has gone out."
 "Three and two make five. Five and seven make twelve. Twelve and three make fifteen. Good morning. Fifteen and seven make twenty-two. Twenty-two and six make twenty-eight. I haven't time to light it again. Twenty-six and five make thirty-one. Phew! Then that makes five-hundred-and-one-million,
@@ -446,7 +446,7 @@ The businessman opened his mouth, but he found nothing to say in answer. And the
       ]
     }, {
       ch:`14`,
-      title: `14 The little prince visits the lamplighter`,
+      title: `The little prince visits the lamplighter`,
       content: `The fifth planet was very strange. It was the smallest of all. There was just enough room on it for a street lamp and a lamplighter. The little prince was
 not able to reach any explanation of the use of a street lamp and a lamplighter, somewhere in the heavens, on a planet which had no people, and not one house. But he said to himself, nevertheless:
 "It may well be that this man is absurd. But he is not so absurd as the king, the conceited man, the businessman, and the tippler. For at least his work has some meaning. When he lights his street lamp, it is as if he brought one more star to life, or one flower. When he puts out his lamp, he sends the flower, or the star, to sleep. That is a beautiful occupation. And since it is beautiful, it is truly useful." [1]
@@ -485,7 +485,7 @@ What the little prince did not dare confess was that he was sorry most of all to
       ]
     }, {
       ch: `15`,
-      title: `15 The little prince visits the geographer`,
+      title: `The little prince visits the geographer`,
       content: `The sixth planet was ten times larger than the last one. It was inhabited by an old gentleman who wrote voluminous books.
 "Oh, look! Here is an explorer!" he exclaimed to himself when he saw the little prince coming.
 The little prince sat down on the table and panted a little. He had already traveled so much and so far!
@@ -531,7 +531,7 @@ That was his first moment of regret. But he took courage once more. "What place 
       ]
     }, {
       ch:`16`,
-      title: `16 The narrator discusses the Earth's lamplighters`,
+      title: `The narrator discusses the Earth's lamplighters`,
       content: `So then the seventh planet was the Earth.
 The Earth is not just an ordinary planet! One can count, there 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups.
 To give you an idea of the size of the Earth, I will tell you that before the invention of electricity it was necessary to maintain, over the whole of the six continents, a veritable army of 462,511 lamplighters for the street lamps.
@@ -543,7 +543,7 @@ Only the man who was in charge of the single lamp at the North Pole, and his col
       ]
     }, {
       ch:`17`,
-      title: `17 The little prince makes the acquaintance of the snake`,
+      title: `The little prince makes the acquaintance of the snake`,
       content: `When one wishes to play the wit, he sometimes wanders a little from the truth. I have not been altogether honest in what I have told you about the lamplighters. And I realize that I run the risk of giving a false idea of our planet to those who do not k now it. Men occupy a very small place upon the Earth. If the two billion inhabitants who people its surface were all to stand upright and somewhat crowded together, as they do for some big public assembly, they could easily be put into one public square twenty miles long and twenty miles wide. All humanity could be piled up on a small Pacific islet.
 The grown-ups, to be sure, will not believe you when you tell them that. They imagine that they fill a great deal of space. They fancy themselves as important as the baobabs. You should advise them, then, to make their own calculations. They adore fig ures, and that will please them. But do not waste your time on this extra task. It is unnecessary. You have, I know, confidence in me.
 When the little prince arrived on the Earth, he was very much surprised not to see any people. He was beginning to be afraid he had come to the wrong planet, when a coil of gold, the color of the moonlight, flashed across the sand. [1]
@@ -573,7 +573,7 @@ The little prince made no reply.
       ]
     }, {
       ch:`18`,
-      title: `18 The little prince goes looking for men and meets a flower`,
+      title: `The little prince goes looking for men and meets a flower`,
       content: `The little prince crossed the desert and met with only one flower. It was a flower with three petals, a flower of no account at all. [1]
 "Good morning," said the little prince. "Good morning," said the flower.
 "Where are the men?" the little prince asked, politely. The flower had once seen a caravan passing.
@@ -584,7 +584,7 @@ The little prince made no reply.
       ]
     }, {
       ch:`19`,
-      title: `19 The little prince climbs a mountain range`,
+      title: `The little prince climbs a mountain range`,
       content: `After that, the little prince climbed a high mountain. The only mountains he had ever known were the three volcanoes, which came up to his knees. And he used the extinct volcano as a footstool. "From a mountain as high as this one," he said to himself, "I shall be able to see the whole planet at one glance, and all the people..." [1]
 But he saw nothing, save peaks of rock that were sharpened like needles. "Good morning," he said courteously.
 "Good morning--Good morning--Good morning," answered the echo.
@@ -598,7 +598,7 @@ They repeat whatever one says to them... On my planet I had a flower; she always
       ]
     },{
       ch:`20`,
-      title: `20 The little prince discovers a garden of roses`,
+      title: `The little prince discovers a garden of roses`,
       content:`But it happened that after walking for a long time through sand, and rocks, and snow, the little prince at last came upon a road. And all roads lead to the abodes of men.
 "Good morning," he said. [1]
 He was standing before a garden, all a-bloom with roses. "Good morning," said the roses.
@@ -616,7 +616,7 @@ And he lay down in the grass and cried. [2]`,
 
     }, {
       ch:`21`,
-      title: `21 The little prince befriends the fox`,
+      title: `The little prince befriends the fox`,
       content: `It was then that the fox appeared. "Good morning," said the fox.
 "Good morning," the little prince responded politely, although when he turned around he saw nothing.
 "I am right here," the voice said, "under the apple tree."
@@ -679,7 +679,7 @@ And he went back to meet the fox. "Goodbye," he said.
 
     }, {
       ch:`22`,
-      title: `22 The little prince encounters a railway switchman`,
+      title: `The little prince encounters a railway switchman`,
       content: `"Good morning," said the little prince.
 "Good morning," said the railway switchman. "What do you do here?" the little prince asked.
 "I sort out travelers, in bundles of a thousand," said the switchman. "I send off the trains that carry them; now to the right, now to the left."
@@ -696,7 +696,7 @@ And they heard the roaring thunder of a third brilliantly lighted express. "Are 
       footnotes: []
     }, {
       ch:`23`,
-      title: `23 The little prince encounters a merchant`,
+      title: `The little prince encounters a merchant`,
       content: `"Good morning," said the little prince. "Good morning," said the merchant.
 This was a merchant who sold pills that had been invented to quench thirst. You need only swallow one pill a week, and you would feel no need of anything to drink.
 "Why are you selling those?" asked the little prince.
@@ -708,7 +708,7 @@ This was a merchant who sold pills that had been invented to quench thirst. You 
       ]
     }, {
       ch: `24`,
-      title: `24 The narrator and the little prince, thirsty, hunt for a well in the desert`,
+      title: `The narrator and the little prince, thirsty, hunt for a well in the desert`,
       content: `It was now the eighth day since I had had my accident in the desert, and I had listened to the story of the merchant as I was drinking the last drop of my water supply.
 "Ah," I said to the little prince, "these memories of yours are very charming; but I have not yet succeeded in repairing my plane; I have nothing more to drink; and I, too, should be very happy if I could walk at my leisure toward a spring of fresh water!"
 "My friend the fox--" the little prince said to me.
@@ -740,7 +740,7 @@ And, as I walked on so, I found the well, at daybreak.`,
       footnotes: []
     }, {
       ch:`25`,
-      title: `25 Finding a well, the narrator and the little prince discuss his return to his planet`,
+      title: `Finding a well, the narrator and the little prince discuss his return to his planet`,
       content: `"Men," said the little prince, "set out on their way in express trains, but they do not know what they are looking for. Then they rush about, and get excited, and turn round and round..."
 And he added:
 "It is not worth the trouble..."
@@ -788,7 +788,7 @@ But I was not reassured. I remembered the fox. One runs the risk of weeping a li
 
     }, {
       ch:`26`,
-      title: `26 The little prince converses with the snake; the little prince consoles the narrator; the little prince returns to his planet`,
+      title: `The little prince converses with the snake; the little prince consoles the narrator; the little prince returns to his planet`,
       content: `Beside the well there was the ruin of an old stone wall. When I came back from my work, the next evening, I saw from some distance away my little price sitting on top of a wall, with his feet dangling. And I heard him say:
 "Then you don't remember. This is not the exact spot." Another voice must have answered him, for he replied to it: "Yes, yes! It is the right day, but this is not the place."
 I continued my walk toward the wall. At no time did I see or hear anyone. The little prince, however, replied once again:
@@ -868,7 +868,7 @@ There was nothing but a flash of yellow close to his ankle. He remained motionle
       ]
     }, {
       ch:`27`,
-      title: `27 The narrator's afterthoughts`,
+      title: `The narrator's afterthoughts`,
       content: `And now six years have already gone by...
 I have never yet told this story. The companions who met me on my return were well content to see me alive. I was sad, but I told them: "I am tired."
 Now my sorrow is comforted a little. That is to say-- not entirely. But I know that he did go back to his planet, because I did not find his body at daybreak. It was not such a heavy body... and at night I love to listen to the stars. It is like five hundred million little bells...

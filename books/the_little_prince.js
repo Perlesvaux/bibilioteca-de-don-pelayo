@@ -4,10 +4,11 @@ const env = process.env.NODE_ENV || 'development';
 // Load the correct .env file based on environment
 dotenv.config({ path: `.env.${env}` });
 const BACKEND = process.env.HOST
-const style = `style="max-width:60vw;display:block;margin:auto;"`
+//const style = `style="max-width:90%;display:block;margin:auto;"`
 
 function fig (image, legend) {
-  return `<figure> <img ${style} src="${BACKEND}${image}"  alt="${legend}"> <figcaption style="text-align:center;padding-top:1em"><em>"${legend}"</em></figcaption> </figure>` 
+  return `<figure> <img src="${BACKEND}${image}"  alt="${legend}"> <figcaption><em>"${legend}"</em></figcaption> </figure>` 
+  //return `<figure> <img ${style} src="${BACKEND}${image}"  alt="${legend}"> <figcaption style="text-align:center;padding-top:1em"><em>"${legend}"</em></figcaption> </figure>` 
 }
 
 export const the_little_prince = { 

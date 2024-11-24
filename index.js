@@ -140,27 +140,39 @@ app.get('/the-little-prince', logger, async (req, res)=>{
 })
 
 
+app.get('/books', logger, (req, res)=>{
 
-
-app.get('/books', (req, res) => {
-  const booksDir = path.join(__dirname, 'books');
-
-  fs.readdir(booksDir, (err, files) => {
-    if (err) {
-      console.error('Error reading directory:', err);
-      return res.status(500).json({ error: 'Unable to read directory' });
+  res.json (
+    {
+      result:
+      [
+        { title: 'The Little Prince', url: 'the-little-prince', author:'Antoine de Saint-Exupéry', date:'1943' },
+        { title: 'To Kill a Nation: The Attack on Yugoslavia', url: 'to-kill-a-nation', author:'Michael Parenti', date:'2000' }
+      ]
     }
-    let result = []
-    files.forEach((x)=> { result.push({
-        title: x.replace(/[\-\_]/gm,' ').replace('.js', '').toUpperCase(),
-        url: x.replace(/[\_]/gm, '-').replace('.js', '')
-      }) 
-    })
+  )
+})
 
-    console.log(result)
-    res.json({ result });
-  });
-});
+
+//app.get('/books', (req, res) => {
+//  const booksDir = path.join(__dirname, 'books');
+//
+//  fs.readdir(booksDir, (err, files) => {
+//    if (err) {
+//      console.error('Error reading directory:', err);
+//      return res.status(500).json({ error: 'Unable to read directory' });
+//    }
+//    let result = []
+//    files.forEach((x)=> { result.push({
+//        title: x.replace(/[\-\_]/gm,' ').replace('.js', '').toUpperCase(),
+//        url: x.replace(/[\_]/gm, '-').replace('.js', '')
+//      }) 
+//    })
+//
+//    console.log(result)
+//    res.json({ result });
+//  });
+//});
 
 
 

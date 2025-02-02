@@ -143,13 +143,10 @@ app.get('/the-little-prince', logger, async (req, res)=>{
 app.get('/books', logger, (req, res)=>{
 
   res.json (
-    {
-      result:
       [
         { title: 'The Little Prince', url: 'the-little-prince', author:'Antoine de Saint-Exupéry', date:'1943' },
         { title: 'To Kill a Nation: The Attack on Yugoslavia', url: 'to-kill-a-nation', author:'Michael Parenti', date:'2000' }
       ]
-    }
   )
 })
 

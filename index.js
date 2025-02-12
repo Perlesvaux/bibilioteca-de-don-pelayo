@@ -41,7 +41,9 @@ function isTextBrowser(req) {
 }
 
 // Serving static files from here! i.e.: "http://localhost:3009/lp1.png"
-app.use(express.static('public'));
+//app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
+
 
 
 
